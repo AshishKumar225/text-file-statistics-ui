@@ -12,7 +12,7 @@ This project is a web application that provides statistical analysis of text fil
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/AshishKumar225/text-file-statistics-ui.git)
    cd text-file-statistics-ui
 
 2. Install the dependencies:
